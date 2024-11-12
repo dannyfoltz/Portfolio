@@ -8,4 +8,11 @@ LinkedIn: https://www.linkedin.com/in/dannyfoltz/
 
 ### Projects
 
-[Masters-Thesis-Repo](https://github.com/dannyfoltz/Masters-Thesis-repo)
+<div align="left">
+  <img src="Images/Thesis.jpg" alt="Project Image" width="250" align="left" style="margin-right: 10px;">
+
+  ### [Masters-Thesis-Repo](https://github.com/dannyfoltz/Masters-Thesis-repo)
+  Final thesis for Master's of Science in Economics program at the University of Bologna.
+</div>
+
+
