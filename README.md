@@ -22,7 +22,7 @@ LinkedIn: https://www.linkedin.com/in/dannyfoltz/
 <div style="clear: both;"></div> <!-- Ensures the next section starts below -->
 
 <div align="left">
- <img src="Images/Thesis.jpg" alt="Project Image" width="250" align="left" style="margin-right: 10px; margin-bottom: 20px;">
+ <img src="Images/ML.jpg" alt="Project Image" width="250" align="left" style="margin-right: 10px; margin-bottom: 20px;">
 
   ### [Forecasting with Many Predictors: A Comparison of Machine Learning Methods](https://github.com/dannyfoltz/Machine-Learning-for-Economists-Project)  
   Final project for Machine Learning for Economists course.
