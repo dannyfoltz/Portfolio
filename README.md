@@ -9,20 +9,25 @@ LinkedIn: https://www.linkedin.com/in/dannyfoltz/
 ### Projects
 
 <div align="left">
-  <img src="Images/Thesis.jpg" alt="Project Image" width="250" align="left" style="margin-right: 10px;">
+  <img src="Images/Thesis.jpg" alt="Project Image" width="250" align="left" style="margin-right: 10px; margin-bottom: 20px;">
 
   ### [Master's Thesis](https://github.com/dannyfoltz/Masters-Thesis-repo)  
   Final thesis for Master's of Science in Economics program at the University of Bologna.
 </div>
 
-<div style="clear: both;"></div> <!-- Clears floating elements -->
+<br><br> <!-- Adds extra space -->
+
+<br><br> <!-- Adds extra space -->
+
+<div style="clear: both;"></div> <!-- Ensures the next section starts below -->
 
 <div align="left">
-  <img src="Images/Thesis.jpg" alt="Project Image" width="250" align="left" style="margin-right: 10px;">
+ <img src="Images/Thesis.jpg" alt="Project Image" width="250" align="left" style="margin-right: 10px; margin-bottom: 20px;">
 
   ### [Forecasting with Many Predictors: A Comparison of Machine Learning Methods](https://github.com/dannyfoltz/Machine-Learning-for-Economists-Project)  
   Final project for Machine Learning for Economists course.
 </div>
+
 
 
 
